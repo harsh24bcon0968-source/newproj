@@ -1,0 +1,79 @@
+{
+    "users": {
+        "harshp17": {
+            "password": "15e2b0d3c33891ebb0f1ef609ec419420c20e320ce94c65fbc8c3312448eb225",
+            "balance": 101246.56,
+            "portfolio": {},
+            "transactions": [
+                {
+                    "type": "BUY",
+                    "stock": "ULTRACEMCO",
+                    "qty": 2,
+                    "price": 9119.95,
+                    "total": 18239.9,
+                    "timestamp": "05-May-2026 19:29:03"
+                },
+                {
+                    "type": "SELL",
+                    "stock": "ULTRACEMCO",
+                    "qty": 2,
+                    "price": 9743.23,
+                    "total": 19486.46,
+                    "timestamp": "05-May-2026 19:53:54"
+                }
+            ]
+        },
+        "efef": {
+            "password": "87ccf22c9ae44ed5ae2a77417e0b6fe5166ad9d3fc4d61d377d58004eba8411d",
+            "balance": 100000.0,
+            "portfolio": {},
+            "transactions": []
+        },
+        "wef": {
+            "password": "50a51c5e6b20a0829ebfb06cebb37fa00be2f1e21c1fa299a9e43ee70137a9d2",
+            "balance": 100000.0,
+            "portfolio": {},
+            "transactions": []
+        },
+        "manoj": {
+            "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+            "balance": 76628.5,
+            "portfolio": {
+                "HINDUNILVR": {
+                    "qty": 10,
+                    "avg_price": 2337.15
+                }
+            },
+            "transactions": [
+                {
+                    "type": "BUY",
+                    "stock": "HINDUNILVR",
+                    "qty": 10,
+                    "price": 2337.15,
+                    "total": 23371.5,
+                    "timestamp": "05-May-2026 20:23:24"
+                }
+            ]
+        },
+        "hpp": {
+            "password": "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5",
+            "balance": 9156.0,
+            "portfolio": {
+                "ULTRACEMCO": {
+                    "qty": 10,
+                    "avg_price": 9084.4
+                }
+            },
+            "transactions": [
+                {
+                    "type": "BUY",
+                    "stock": "ULTRACEMCO",
+                    "qty": 10,
+                    "price": 9084.4,
+                    "total": 90844.0,
+                    "timestamp": "20-May-2026 18:40:38"
+                }
+            ]
+        }
+    }
+}
